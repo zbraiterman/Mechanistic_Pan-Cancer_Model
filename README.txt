@@ -32,7 +32,7 @@ Sundials:
 
 Sundials is a software package for solving systems of ODEs. It can be downloaded here:
 
-https://computation.llnl.gov/projects/sundials/sundials-software
+https://computing.llnl.gov/projects/sundials
 
 ** Important - make sure to download Sundials version 2.7, not the latest version!! This is the most common problem people run into when trying to get everything installed. **
 
